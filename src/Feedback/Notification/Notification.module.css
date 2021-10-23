@@ -1,0 +1,14 @@
+.notification {
+  margin-right: auto;
+  margin-left: auto;
+  width: 400px;
+  background-color: rgb(255, 192, 121);
+}
+
+.notificationMessage {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #212121;
+  border-radius: 2px;
+  padding: 20px;
+}

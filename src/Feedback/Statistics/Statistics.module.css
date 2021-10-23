@@ -1,0 +1,14 @@
+.statistics {
+  display: flex;
+  justify-content: center;
+}
+
+.statisticsList {
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  list-style: none;
+}

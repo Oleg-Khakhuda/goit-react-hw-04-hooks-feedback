@@ -1,0 +1,18 @@
+.feedbackBtn {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  padding: 5px;
+  margin: 7px;
+  background-color: rgb(147, 207, 247);
+  border-radius: 3px;
+  outline: none;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.btn:hover {
+  background-color: rgb(50, 173, 255);
+}
